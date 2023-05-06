@@ -1,0 +1,13 @@
+name = "libuvc_jll"
+uuid = "dfb37df2-2877-55c2-a770-3badcc6a83b3"
+version = "0.0.7+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libusb_jll = "a877fdc9-fe69-5ed6-b93d-11ecd0dc2d49"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.2.0"
+julia = "1.8"

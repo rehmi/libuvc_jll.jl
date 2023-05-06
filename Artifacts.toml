@@ -1,0 +1,127 @@
+[[libuvc]]
+arch = "aarch64"
+git-tree-sha1 = "d298ff1242008c4139a29ef33bd42ed9533693c9"
+os = "macos"
+
+    [[libuvc.download]]
+    sha256 = "5e9a41b78aa57eeb0256b44a4941564dc1c85aaa0470bac515efbec96bb16429"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.aarch64-apple-darwin.tar.gz"
+[[libuvc]]
+arch = "aarch64"
+git-tree-sha1 = "9b4e735df19b9b160d5e953a5ce64f3df0430017"
+libc = "glibc"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "8a933fd9c96dea24b3a4f5b58c6f2145f5e892a01a36361158aef1e52eb3fd8b"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.aarch64-linux-gnu.tar.gz"
+[[libuvc]]
+arch = "aarch64"
+git-tree-sha1 = "e5fe750a471971d51d52a38df7531be1021d2e9b"
+libc = "musl"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "c8b88c04c27991eb637891c8821c77ee04dd2eb8a529723d04d55309f99ee3f3"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.aarch64-linux-musl.tar.gz"
+[[libuvc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2133b7b7e8ea2e2756ff6727d303e99e3da67285"
+libc = "glibc"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "4dfe49cf157d3a1973e3e3ef3e6cc6d8cf3b60a88fc8c0ad7d07b0b21e779ac8"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.armv6l-linux-gnueabihf.tar.gz"
+[[libuvc]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "09a6afdc6dbaedd2d595e1643e72b93962fece45"
+libc = "musl"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "cbe56bc9cf8a16d5d08ab781bc9b1a32ef02c70a32b75f6fa3db84c32d3cff3e"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.armv6l-linux-musleabihf.tar.gz"
+[[libuvc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "4609f1d79325cc68de6c1e56af8a5dd833e6939d"
+libc = "glibc"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "57cb98f35f86c81d9a3c9eb2d2ddea96d7d52c770a5bc16c72ce7e654747fe0b"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.armv7l-linux-gnueabihf.tar.gz"
+[[libuvc]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "cdd82473cd487d933507c644045539e2a1e316da"
+libc = "musl"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "59da8f794168f818ac01b111117669a933e834513d96511c0cb6cbeb57cb88f2"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.armv7l-linux-musleabihf.tar.gz"
+[[libuvc]]
+arch = "i686"
+git-tree-sha1 = "f91f05b951c76632868e0a5b5d5ae2b066ddd885"
+libc = "glibc"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "51bfcc95c54dff5f7999fc8a219fbf8d28cb87de7fa1fa2e4e6911f4b76a4029"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.i686-linux-gnu.tar.gz"
+[[libuvc]]
+arch = "i686"
+git-tree-sha1 = "977abaea8f9b54883980c9786f82624636085730"
+libc = "musl"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "838758b01f135bea9afc1fde18d296ed8c40d1b2f257e58a1cb1baa410d7a1a1"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.i686-linux-musl.tar.gz"
+[[libuvc]]
+arch = "powerpc64le"
+git-tree-sha1 = "b593218b67cbe7f31865d710cbbdc5162481cf98"
+libc = "glibc"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "73f30ece146e677376a21a820c1b510eb86cfe9d9492713b37f49f7f588fe4c8"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.powerpc64le-linux-gnu.tar.gz"
+[[libuvc]]
+arch = "x86_64"
+git-tree-sha1 = "410e5563982b30ffee43c83df960fb09ea6771eb"
+os = "macos"
+
+    [[libuvc.download]]
+    sha256 = "559a4f28d9d654e28286ab410c1b366562601004b211b7596510c358384720d0"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.x86_64-apple-darwin.tar.gz"
+[[libuvc]]
+arch = "x86_64"
+git-tree-sha1 = "f720d3519493bd782ed0938369d7c17edb4a40be"
+libc = "glibc"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "a10bc7d7a7541fe17e8156eefe6a23a163baeb340001cb1cf782a0e5228a7ca3"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.x86_64-linux-gnu.tar.gz"
+[[libuvc]]
+arch = "x86_64"
+git-tree-sha1 = "691f98d5c523577875a8be488a4a0b37b7cbf402"
+libc = "musl"
+os = "linux"
+
+    [[libuvc.download]]
+    sha256 = "e170f983565de22d81a2ca9ea4ebfa4fc9d8e67e68a8704d506ee86e89d02a7e"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.x86_64-linux-musl.tar.gz"
+[[libuvc]]
+arch = "x86_64"
+git-tree-sha1 = "1ba3fa84f6e25c7d9ef01f75bfe9d47af96324cc"
+os = "freebsd"
+
+    [[libuvc.download]]
+    sha256 = "30928a6cdb49bcdfec0f4f0c11c07f6a4e455e90e13d3ebeb02b68b81f41fad6"
+    url = "https://github.com/rehmi/libuvc_jll.jl/releases/download/libuvc-v0.0.7+0/libuvc.v0.0.7.x86_64-unknown-freebsd.tar.gz"
